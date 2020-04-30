@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ds20"
+    }
+  },
+  "defaultProject": "ds20",
+  "cli": {
+    "analytics": false
+  }
 }
